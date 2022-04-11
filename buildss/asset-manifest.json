@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rxjs/buildss/static/css/main.10d72fa1.css",
+    "main.js": "/rxjs/buildss/static/js/main.46c20da2.js",
+    "static/js/787.4641eef9.chunk.js": "/rxjs/buildss/static/js/787.4641eef9.chunk.js",
+    "static/media/img1.jpg": "/rxjs/buildss/static/media/img1.3388aa914584f8604a0f.jpg",
+    "index.html": "/rxjs/buildss/index.html",
+    "main.10d72fa1.css.map": "/rxjs/buildss/static/css/main.10d72fa1.css.map",
+    "main.46c20da2.js.map": "/rxjs/buildss/static/js/main.46c20da2.js.map",
+    "787.4641eef9.chunk.js.map": "/rxjs/buildss/static/js/787.4641eef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d72fa1.css",
+    "static/js/main.46c20da2.js"
+  ]
+}
